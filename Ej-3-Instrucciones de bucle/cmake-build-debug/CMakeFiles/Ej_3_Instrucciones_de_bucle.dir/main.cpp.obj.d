@@ -161,4 +161,5 @@ CMakeFiles/Ej_3_Instrucciones_de_bucle.dir/main.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/codecvt \
  D:\Escritorio\1-Ing.\ Informatica\1\ Curso\Programacion\Ejercicios\Coleccion_\ Ejercicios_Bases_programacion_\ C++\Ej-3-Instrucciones\ de\ bucle\for_loop.h \
  D:\Escritorio\1-Ing.\ Informatica\1\ Curso\Programacion\Ejercicios\Coleccion_\ Ejercicios_Bases_programacion_\ C++\Ej-3-Instrucciones\ de\ bucle\while_loop.h \
- D:\Escritorio\1-Ing.\ Informatica\1\ Curso\Programacion\Ejercicios\Coleccion_\ Ejercicios_Bases_programacion_\ C++\Ej-3-Instrucciones\ de\ bucle\do_while_loop.h
+ D:\Escritorio\1-Ing.\ Informatica\1\ Curso\Programacion\Ejercicios\Coleccion_\ Ejercicios_Bases_programacion_\ C++\Ej-3-Instrucciones\ de\ bucle\do_while_loop.h \
+ D:\Escritorio\1-Ing.\ Informatica\1\ Curso\Programacion\Ejercicios\Coleccion_\ Ejercicios_Bases_programacion_\ C++\Ej-3-Instrucciones\ de\ bucle\jump_instructions.h

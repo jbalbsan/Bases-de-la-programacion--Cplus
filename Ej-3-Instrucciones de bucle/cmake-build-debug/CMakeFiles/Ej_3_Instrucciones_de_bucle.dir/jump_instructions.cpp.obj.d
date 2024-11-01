@@ -150,4 +150,13 @@ CMakeFiles/Ej_3_Instrucciones_de_bucle.dir/jump_instructions.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h \
- C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/codecvt
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/codecvt \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+ C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+ D:\Escritorio\1-Ing.\ Informatica\1\ Curso\Programacion\Ejercicios\Coleccion_\ Ejercicios_Bases_programacion_\ C++\Ej-3-Instrucciones\ de\ bucle\jump_instructions.h

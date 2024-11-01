@@ -11,4 +11,5 @@ add_executable(Ej_3_Instrucciones_de_bucle main.cpp
         for_loop.h
         while_loop.h
         do_while_loop.h
+        jump_instructions.h
 )

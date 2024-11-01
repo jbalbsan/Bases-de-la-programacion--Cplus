@@ -2,12 +2,10 @@
 #include <iostream>
 #include <locale>
 #include <codecvt>
-
-
 #include "for_loop.h"  // Incluyo el encabezado para acceder a la función
 #include "while_loop.h"
 #include "do_while_loop.h"
-
+#include "jump_instructions.h";
 
 int main() {
     std::cout << "Imprimiendo números del 1 al 10:\n";
@@ -21,7 +19,11 @@ int main() {
 
     std::cout << "\nIngrese el numero para la multiplicación (bucle do-while): ";
     std::cin >> numero;
+
     imprimirTablaMultiplicarDoWhile(numero);
+
+
+        sumarNumeros(); // Llamar a la función que suma números
 
     return 0;
 }
