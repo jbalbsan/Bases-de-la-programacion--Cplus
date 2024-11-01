@@ -1,5 +1,8 @@
 #include <iostream>
 #include "while_loop.h"
+#include <locale>
+#include <codecvt>
+
 
 void imprimirTablaMultiplicar(int numero) { // Usamos el número pasado como parámetro
     int contador = 1;
