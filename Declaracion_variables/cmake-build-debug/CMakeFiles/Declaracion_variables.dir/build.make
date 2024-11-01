@@ -82,19 +82,51 @@ CMakeFiles/Declaracion_variables.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Declaracion_variables.dir/main.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\main.cpp" -o CMakeFiles\Declaracion_variables.dir\main.cpp.s
 
+CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.obj: CMakeFiles/Declaracion_variables.dir/flags.make
+CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.obj: D:/Escritorio/1-Ing.\ Informatica/1\ Curso/Programacion/Ejercicios/Coleccion_\ Ejercicios_Bases_programacion_\ C++/Declaracion_variables/tipos_datos.cpp
+CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.obj: CMakeFiles/Declaracion_variables.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.obj -MF CMakeFiles\Declaracion_variables.dir\tipos_datos.cpp.obj.d -o CMakeFiles\Declaracion_variables.dir\tipos_datos.cpp.obj -c "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\tipos_datos.cpp"
+
+CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\tipos_datos.cpp" > CMakeFiles\Declaracion_variables.dir\tipos_datos.cpp.i
+
+CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\tipos_datos.cpp" -o CMakeFiles\Declaracion_variables.dir\tipos_datos.cpp.s
+
+CMakeFiles/Declaracion_variables.dir/edad.cpp.obj: CMakeFiles/Declaracion_variables.dir/flags.make
+CMakeFiles/Declaracion_variables.dir/edad.cpp.obj: D:/Escritorio/1-Ing.\ Informatica/1\ Curso/Programacion/Ejercicios/Coleccion_\ Ejercicios_Bases_programacion_\ C++/Declaracion_variables/edad.cpp
+CMakeFiles/Declaracion_variables.dir/edad.cpp.obj: CMakeFiles/Declaracion_variables.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Declaracion_variables.dir/edad.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Declaracion_variables.dir/edad.cpp.obj -MF CMakeFiles\Declaracion_variables.dir\edad.cpp.obj.d -o CMakeFiles\Declaracion_variables.dir\edad.cpp.obj -c "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\edad.cpp"
+
+CMakeFiles/Declaracion_variables.dir/edad.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Declaracion_variables.dir/edad.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\edad.cpp" > CMakeFiles\Declaracion_variables.dir\edad.cpp.i
+
+CMakeFiles/Declaracion_variables.dir/edad.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Declaracion_variables.dir/edad.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\edad.cpp" -o CMakeFiles\Declaracion_variables.dir\edad.cpp.s
+
 # Object files for target Declaracion_variables
 Declaracion_variables_OBJECTS = \
-"CMakeFiles/Declaracion_variables.dir/main.cpp.obj"
+"CMakeFiles/Declaracion_variables.dir/main.cpp.obj" \
+"CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.obj" \
+"CMakeFiles/Declaracion_variables.dir/edad.cpp.obj"
 
 # External object files for target Declaracion_variables
 Declaracion_variables_EXTERNAL_OBJECTS =
 
 Declaracion_variables.exe: CMakeFiles/Declaracion_variables.dir/main.cpp.obj
+Declaracion_variables.exe: CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.obj
+Declaracion_variables.exe: CMakeFiles/Declaracion_variables.dir/edad.cpp.obj
 Declaracion_variables.exe: CMakeFiles/Declaracion_variables.dir/build.make
 Declaracion_variables.exe: CMakeFiles/Declaracion_variables.dir/linkLibs.rsp
 Declaracion_variables.exe: CMakeFiles/Declaracion_variables.dir/objects1.rsp
 Declaracion_variables.exe: CMakeFiles/Declaracion_variables.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Declaracion_variables.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Declaracion_variables.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Declaracion_variables.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

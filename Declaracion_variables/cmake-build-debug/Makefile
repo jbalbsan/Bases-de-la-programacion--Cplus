@@ -128,6 +128,30 @@ Declaracion_variables/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/build
 .PHONY : Declaracion_variables/fast
 
+edad.obj: edad.cpp.obj
+.PHONY : edad.obj
+
+# target to build an object file
+edad.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/edad.cpp.obj
+.PHONY : edad.cpp.obj
+
+edad.i: edad.cpp.i
+.PHONY : edad.i
+
+# target to preprocess a source file
+edad.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/edad.cpp.i
+.PHONY : edad.cpp.i
+
+edad.s: edad.cpp.s
+.PHONY : edad.s
+
+# target to generate assembly for a file
+edad.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/edad.cpp.s
+.PHONY : edad.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -152,6 +176,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+tipos_datos.obj: tipos_datos.cpp.obj
+.PHONY : tipos_datos.obj
+
+# target to build an object file
+tipos_datos.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.obj
+.PHONY : tipos_datos.cpp.obj
+
+tipos_datos.i: tipos_datos.cpp.i
+.PHONY : tipos_datos.i
+
+# target to preprocess a source file
+tipos_datos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.i
+.PHONY : tipos_datos.cpp.i
+
+tipos_datos.s: tipos_datos.cpp.s
+.PHONY : tipos_datos.s
+
+# target to generate assembly for a file
+tipos_datos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/tipos_datos.cpp.s
+.PHONY : tipos_datos.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,9 +209,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Declaracion_variables
+	@echo ... edad.obj
+	@echo ... edad.i
+	@echo ... edad.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... tipos_datos.obj
+	@echo ... tipos_datos.i
+	@echo ... tipos_datos.s
 .PHONY : help
 
 

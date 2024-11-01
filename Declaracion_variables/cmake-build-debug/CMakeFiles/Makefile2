@@ -80,12 +80,12 @@ clean: CMakeFiles/Declaracion_variables.dir/clean
 CMakeFiles/Declaracion_variables.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Declaracion_variables.dir\build.make CMakeFiles/Declaracion_variables.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Declaracion_variables"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target Declaracion_variables"
 .PHONY : CMakeFiles/Declaracion_variables.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Declaracion_variables.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Declaracion_variables.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Coleccion_ Ejercicios_Bases_programacion_ C++\Declaracion_variables\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Declaracion_variables.dir/rule
