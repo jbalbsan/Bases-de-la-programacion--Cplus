@@ -8,7 +8,6 @@ void sumarNumeros()
 {
     float numero;
     float sumaTotal = 0;
-
     std::cout << "Introduce números a sumar (0 para salir):\n";
 
     // Bucle que continuará hasta que se introduzca 0
@@ -28,6 +27,5 @@ void sumarNumeros()
         std::cout << "La suma total es: " << sumaTotal << std::endl;
 
     }
-
 
 }
