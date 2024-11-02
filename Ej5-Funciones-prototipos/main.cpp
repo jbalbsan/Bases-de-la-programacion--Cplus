@@ -5,13 +5,14 @@
 
 
 
-int main()
-{
-    std::cout << "Introduce dos valores para sumarlos \n";
-    declara_funcion();
-
-
-
+int main() {
+    int a, b;
+    std::cout << "Introduce el 1º número: ";
+    std::cin >> a;
+    std::cout << "Introduce el 2º número: ";
+    std::cin >> b;
+    //No necesito crear una variable para devolver el resultado
+    std::cout << "El resultado de la suma de " << a << " + " << b << " = " << suma(a, b) << std::endl;
 
     return 0;
 }

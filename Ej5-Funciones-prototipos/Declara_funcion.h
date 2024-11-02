@@ -1,6 +1,6 @@
 #ifndef DECLARA_FUNCION_H
 #define DECLARA_FUNCION_H
 
-void declara_funcion ();
+int suma(int a, int b);
 
 #endif //DECLARA_FUNCION_H
