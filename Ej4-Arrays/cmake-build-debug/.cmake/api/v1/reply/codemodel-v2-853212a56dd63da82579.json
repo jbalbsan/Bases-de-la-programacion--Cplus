@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ej4_Arrays",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej4_Arrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej4_Arrays-Debug-ae629f0dff158ba14964.json",
+					"name" : "Ej4_Arrays",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Escritorio/1-Ing. Informatica/1 Curso/Programacion/Ejercicios/Coleccion_ Ejercicios_Bases_programacion_ C++/Ej4-Arrays/cmake-build-debug",
+		"source" : "D:/Escritorio/1-Ing. Informatica/1 Curso/Programacion/Ejercicios/Coleccion_ Ejercicios_Bases_programacion_ C++/Ej4-Arrays"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

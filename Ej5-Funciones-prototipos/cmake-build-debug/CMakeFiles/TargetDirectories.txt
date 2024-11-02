@@ -1,0 +1,3 @@
+D:/Escritorio/1-Ing. Informatica/1 Curso/Programacion/Ejercicios/Coleccion_ Ejercicios_Bases_programacion_ C++/Ej5-Funciones-prototipos/cmake-build-debug/CMakeFiles/Ej5_Funciones_prototipos.dir
+D:/Escritorio/1-Ing. Informatica/1 Curso/Programacion/Ejercicios/Coleccion_ Ejercicios_Bases_programacion_ C++/Ej5-Funciones-prototipos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Escritorio/1-Ing. Informatica/1 Curso/Programacion/Ejercicios/Coleccion_ Ejercicios_Bases_programacion_ C++/Ej5-Funciones-prototipos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
