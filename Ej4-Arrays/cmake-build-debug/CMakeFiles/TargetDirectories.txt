@@ -1,0 +1,3 @@
+D:/Escritorio/1-Ing. Informatica/1 Curso/Programacion/Ejercicios/Coleccion_ Ejercicios_Bases_programacion_ C++/Ej4-Arrays/cmake-build-debug/CMakeFiles/Ej4_Arrays.dir
+D:/Escritorio/1-Ing. Informatica/1 Curso/Programacion/Ejercicios/Coleccion_ Ejercicios_Bases_programacion_ C++/Ej4-Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Escritorio/1-Ing. Informatica/1 Curso/Programacion/Ejercicios/Coleccion_ Ejercicios_Bases_programacion_ C++/Ej4-Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
